@@ -10,7 +10,7 @@ namespace Homework_2._3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Задание №2.");
+            Console.WriteLine("Задание №3*.");
             Console.WriteLine();
             double x;
             double z;
